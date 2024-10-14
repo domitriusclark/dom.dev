@@ -1,9 +1,8 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+Heyo! I'm Domitrius Clark. I transitioned from Retail to Software 8 years ago. Spent my first four years building UI's for companies like Guru and Comcast. I then spent the last four years building my career in Developer Experience & Relations at places like Cloudinary, Netlify, and Clerk. Community is the most important part of any tool and I've spent my career making sure to open doors for developers. 
 
-::github{repo="saicaca/fuwari"}
+Outside of work, I play video games, Magic the Gathering, and love Esports. I run a small Youtube & TikTok where I post MTG & other TCG based content! 
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+
+
+

@@ -30,9 +30,8 @@ export type Favicon = {
   sizes?: string
 }
 
-export enum LinkPreset {
-  Home = 0,
-  Archive = 1,
+export enum LinkPreset {  
+  Timeline = 1,
   About = 2,
 }
 
